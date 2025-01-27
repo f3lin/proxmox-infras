@@ -1,0 +1,7 @@
+proxmox_api_url      = "https://your-proxmox-url:8006/api2/json"
+proxmox_api_token    = "your-api-token"
+proxmox_api_token_id = "your-token-id"
+vm_password          = "your-vm-password"
+vm_ip_address        = "192.168.1.xxx/24"
+vm_ip_gateway        = "192.168.1.xxx"
+template_name        = "your-template-name"
